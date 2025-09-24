@@ -44,9 +44,8 @@ The generator loss gradually increased, while the discriminator loss decreased o
 Here are 16 generated images after **1 training epoch**.  
 At this stage, results are still noisy and lack clear structure—longer training is required.  
 
-![Generated Images](GeneratedImages.png)
-
 (Bottom image block)
+![Generated Images](GeneratedImages.png)
 
 ---
 
