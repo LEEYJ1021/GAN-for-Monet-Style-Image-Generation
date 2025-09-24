@@ -9,7 +9,7 @@
 ## 2. Exploratory Data Analysis (EDA)
 Below are 16 sample images from the Monet dataset:
 
-![EDA Sample](EDA Sample.png)
+![EDA Sample](EDA_Sample.png)
 
 (Top-left image block)
 
@@ -34,7 +34,7 @@ Training Finished
 The loss curves during training are shown below.  
 The generator loss gradually increased, while the discriminator loss decreased over iterations.  
 
-![Loss Curve](Loss Curve.png)
+![Loss Curve](Loss_Curve.png)
 
 (Middle graph section)
 
@@ -44,7 +44,7 @@ The generator loss gradually increased, while the discriminator loss decreased o
 Here are 16 generated images after **1 training epoch**.  
 At this stage, results are still noisy and lack clear structure—longer training is required.  
 
-![Generated Images](Generated Images.png)
+![Generated Images](Generated_Images.png)
 
 (Bottom image block)
 
